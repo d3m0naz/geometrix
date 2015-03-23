@@ -104,16 +104,6 @@ int main ()
 		
 	}
 
-		
-		
-		//Schleife: Berechnung 10x durchlaufen lassen
-		//int i;
-		//
-		//for(i=1;i<11;i++)
-		//{
-
-		
-
 system("Pause");
 return 0;
 }
