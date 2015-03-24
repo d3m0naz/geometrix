@@ -1,4 +1,4 @@
 # geometrix
-A poor attempt to code somewhat Cplusplus ;)
+A poor attempt to code some C++ ;)
 
-This is for learning the c++ language.
+This is for learning C++.
